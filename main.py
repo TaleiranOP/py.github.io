@@ -1,1 +1,6 @@
 # py.github.io
+from turtle import*
+
+forward(200)
+
+exitonclick()
